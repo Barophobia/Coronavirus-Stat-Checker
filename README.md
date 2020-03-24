@@ -16,12 +16,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -41,7 +38,8 @@ Download from python website or sudo apt-get install python3
 ```
 * PyQt5
 ```sh
-Open your favourite terminal and type: pip install PyQt5 (if this errors type: python -m pip install PyQt5)
+Open your favourite terminal and type: pip install PyQt5
+If that errors try: python -m pip install PyQt5
 ```
 * Requests
 ```sh
